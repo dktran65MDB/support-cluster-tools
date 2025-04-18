@@ -145,4 +145,4 @@ Percent File System Used .........................:  51.57%
 ```
 
 #### Contributions
-Thanks to Gary Taylor for helping with initial scripts content, and I had only made few minor format adjustment and displays
+Thanks to Gary Taylor for helping with initial scripts, and I have add few more and also made some code changes for format and displays.
